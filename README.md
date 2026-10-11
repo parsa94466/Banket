@@ -1,6 +1,3 @@
-# Banket
-سامانه رسید و گواهی تحویل فیزیکی
-
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
